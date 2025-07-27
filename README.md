@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/samuelaligator/PokeKerna/refs/heads/master/web/favicon.png#gh-light-mode-only" alt="Pokekerna's White Logo" width="100">
   <img src="https://raw.githubusercontent.com/samuelaligator/PokeKerna/refs/heads/master/web/favicon.png#gh-dark-mode-only" alt="Pokekerna's Dark Logo" width="100">
   <br/>
-  <h1 align="center">POKEKENRA</h1>
+  <h1 align="center">POKEKERNA</h1>
 </p>
 
 
